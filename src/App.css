@@ -1,0 +1,7 @@
+.App {
+  height: 100vh;
+  background-color: #eeeeee;
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+}
