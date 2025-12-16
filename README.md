@@ -357,9 +357,9 @@ Este projeto está sob a licença **MIT**. Veja o arquivo `LICENSE` para mais de
 
 **Guilherme Oliveira** - *Profissional Full Stack*
 
-- 📧 Email: seu-email@exemplo.com
+- 📧 Email: gbtattoobrasiliadf@gmail.com
 - 💼 LinkedIn: [linkedin.com/in/seu-perfil](https://linkedin.com)
-- 🐙 GitHub: [@seu-usuario](https://github.com/seu-usuario)
+- 🐙 GitHub: [@gdevsete](https://github.com/seu-usuario)
 
 ---
 
